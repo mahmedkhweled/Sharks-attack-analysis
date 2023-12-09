@@ -67,8 +67,8 @@ For this analysis, comprehensive data on shark attacks was sourced from ‘Kaggl
 ### Data Cleaning and Preprocessing:
 -The provided Power Query script is designed to transform and clean a dataset related to shark attacks.
 #### Power Query Advanced Editor:
-<pre>
-```
+
+``` js
   let
     // The data is sourced from the Excel workbook, specifically from the table named "Table1."
     
@@ -156,7 +156,7 @@ For this analysis, comprehensive data on shark attacks was sourced from ‘Kaggl
 in
     #"Replaced Value1"
 ```
-</pre>
+
 
 <br>-The resulting dataset is cleaned, organized, and ready for further analysis, with special attention to date-related transformations.
 ![image](https://github.com/mahmedkhweled/Sharks-attack-analysis/assets/67151245/32ec5c57-b4cb-456b-8c66-8e27419b153b)
